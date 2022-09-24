@@ -1,4 +1,4 @@
-#Multiple Sequence Alignment
+# Multiple Sequence Alignment
 
 A program developed to find multiple sequence alignment of protein sequences read from input files.  
 Global alignment was performed to find pairwise alignments.  
